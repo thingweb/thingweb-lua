@@ -5,7 +5,7 @@
 servient={}
 servient.name = ""
 
--- which protocol do the servient support (e.g., CoAP, HTTP, ...)
+-- which protocols does the servient support (e.g., CoAP, HTTP, ...)
 servient.coap=false 
 servient.http=false
 
